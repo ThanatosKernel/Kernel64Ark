@@ -1,5 +1,17 @@
 # Kernel64Ark
 
+感谢 Saileaxh 提供的符号在线解析网站解析
+
+Microsoft符号镜像站：
+http://msdl.saileaxh.com/download/symbols/
+
+HexScan特征码扫描器：
+https://hex.saileaxh.com/scan/
+
+PDB文件在线解析服务接口：
+https://bbs.kanxue.com/thread-290244.htm
+
+
 > 仅供合法学习与交流使用。  
 > For legal learning, research, and communication only.
 
