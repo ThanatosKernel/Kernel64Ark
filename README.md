@@ -23,6 +23,16 @@ https://bbs.kanxue.com/thread-290244.htm
 本文档根据现有发布说明整理为中英双语版本，便于阅读与归档。  
 This document reorganizes the existing release notes into a bilingual Chinese-English format for easier reading and archival.
 
+
+
+
+ ## 界面截图 | Screenshots
+
+  <p align="center">
+    <img src="进程.png" width="900" alt="Kernel64Ark Main UI">
+    <img src="中文截图.png" width="900" alt="Process View">
+  </p>
+
 ## 免责声明 | Disclaimer
 
 ### 中文
